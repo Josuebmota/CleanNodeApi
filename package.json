@@ -1,0 +1,8 @@
+{
+  "name": "CleanNodeApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Josuebmota/CleanNodeApi.git",
+  "author": "josuebmota <josuebatistam1@gmail.com>",
+  "license": "MIT"
+}
